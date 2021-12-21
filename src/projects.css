@@ -1,0 +1,23 @@
+
+
+
+.projects_img{
+   /*  background-color: rgba(0,0,0,0.1); */
+  
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+    
+}
+
+.projects_img img{
+    width: 250px ;
+    height: 150px;
+    object-fit: cover;
+    margin-bottom: 50px;
+    border-radius:5px ;
+    box-shadow: 0 0 0.7142857142857143rem #cccccc;
+    
+
+}

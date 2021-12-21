@@ -1,0 +1,26 @@
+
+.welcome{
+    font-size: 55px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+    margin: auto;
+    
+    text-align: center;
+    border-radius: 10px;
+    padding: 20px;
+  /*   background-color: rgba(0,0,0,0.4); */
+    width: 100%;
+   /*  box-shadow: 0 0 0.7142857142857143rem #cccccc; */
+ 
+    
+}
+
+.boton_welcome{
+    background-color: rgba(0,0,0,0.1);
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
