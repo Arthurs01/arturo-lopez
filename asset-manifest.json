@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.147812ad.css",
-    "main.js": "/static/js/main.08016a95.js",
-    "static/js/787.5a8a7eac.chunk.js": "/static/js/787.5a8a7eac.chunk.js",
-    "static/media/11.mp4": "/static/media/11.d28831bc5d9eeb4a9a44.mp4",
-    "static/media/3.jpg": "/static/media/3.0c0e3e99934756fa555b.jpg",
-    "static/media/8.jpg": "/static/media/8.430144f2d80c52e78561.jpg",
-    "static/media/2.jpg": "/static/media/2.6c83944babc167fdad9f.jpg",
-    "static/media/1.jpg": "/static/media/1.3c098260adb0a861101e.jpg",
-    "static/media/4.jpg": "/static/media/4.17c4b23df4486d078ab3.jpg",
-    "static/media/7.jpg": "/static/media/7.c7aa1d66ca863b2dc7c5.jpg",
-    "static/media/9.jpg": "/static/media/9.81f5a91805f6bfe12e3c.jpg",
-    "static/media/5.PNG": "/static/media/5.acca0001ed594b7fe546.PNG",
-    "static/media/6.jpg": "/static/media/6.32dfcc5d3bed561ae342.jpg",
-    "index.html": "/index.html",
-    "main.147812ad.css.map": "/static/css/main.147812ad.css.map",
-    "main.08016a95.js.map": "/static/js/main.08016a95.js.map",
-    "787.5a8a7eac.chunk.js.map": "/static/js/787.5a8a7eac.chunk.js.map"
+    "main.css": "/arturo-lopez/static/css/main.147812ad.css",
+    "main.js": "/arturo-lopez/static/js/main.affcf9eb.js",
+    "static/js/787.5a8a7eac.chunk.js": "/arturo-lopez/static/js/787.5a8a7eac.chunk.js",
+    "static/media/11.mp4": "/arturo-lopez/static/media/11.d28831bc5d9eeb4a9a44.mp4",
+    "static/media/3.jpg": "/arturo-lopez/static/media/3.0c0e3e99934756fa555b.jpg",
+    "static/media/8.jpg": "/arturo-lopez/static/media/8.430144f2d80c52e78561.jpg",
+    "static/media/2.jpg": "/arturo-lopez/static/media/2.6c83944babc167fdad9f.jpg",
+    "static/media/1.jpg": "/arturo-lopez/static/media/1.3c098260adb0a861101e.jpg",
+    "static/media/4.jpg": "/arturo-lopez/static/media/4.17c4b23df4486d078ab3.jpg",
+    "static/media/7.jpg": "/arturo-lopez/static/media/7.c7aa1d66ca863b2dc7c5.jpg",
+    "static/media/9.jpg": "/arturo-lopez/static/media/9.81f5a91805f6bfe12e3c.jpg",
+    "static/media/5.PNG": "/arturo-lopez/static/media/5.acca0001ed594b7fe546.PNG",
+    "static/media/6.jpg": "/arturo-lopez/static/media/6.32dfcc5d3bed561ae342.jpg",
+    "index.html": "/arturo-lopez/index.html",
+    "main.147812ad.css.map": "/arturo-lopez/static/css/main.147812ad.css.map",
+    "main.affcf9eb.js.map": "/arturo-lopez/static/js/main.affcf9eb.js.map",
+    "787.5a8a7eac.chunk.js.map": "/arturo-lopez/static/js/787.5a8a7eac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.147812ad.css",
-    "static/js/main.08016a95.js"
+    "static/js/main.affcf9eb.js"
   ]
 }
